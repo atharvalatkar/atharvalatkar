@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on embedded software systems, exploring the bridge between hardware and low-level software.<br>👯 Open to collaborating on hardware–software design, firmware, and embedded projects.<br>🤝 Looking for help with real-world embedded workflows, and system-level thinking.<br>🌱 Currently learning Data Structures & Algorithms alongside core hardware and computer fundamentals.<br>⚡ Fun fact: I enjoy understanding how things work from silicon to software.
+🔭 Currently working on embedded software systems, exploring the bridge between hardware and low-level software.<br>👯 Open to collaborating on hardware–software design, firmware, and embedded projects.<br>🤝 Looking for help with real-world embedded workflows, and system-level thinking.<br>🌱 Currently learning Data Structures & Algorithms alongside core hardware and computer fundamentals.<br>⚡ I enjoy understanding how things work from silicon to software.
 
 
 ## 🌐 Socials:
